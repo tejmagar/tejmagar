@@ -10,13 +10,13 @@ Hi, I am Tej Magar
 
 ## My Opensource Projects
 - [DJ Admin Plus](https://github.com/tejmagar/dj-admin-plus)
-- (Android Network Tools)[https://github.com/tejmagar/AndroidNetworkTools]
-- (tej-protoc)[https://github.com/tejmagar/tej-protoc]
+- [Android Network Tools](https://github.com/tejmagar/AndroidNetworkTools)
+- [tej-protoc](https://github.com/tejmagar/tej-protoc)
 
 ## Projects to share
-- (Flash Keylogger)[https://apkgk.com/tej.flashkeylogger]
-- (Send it apk)[https://github.com/tejmagar/sendit]
-- (Erase BG)[https://erasebg.org]
+- [Flash Keylogger](https://apkgk.com/tej.flashkeylogger)
+- [Send it apk](https://github.com/tejmagar/sendit)
+- [Erase BG](https://erasebg.org)
 
 ## Currently Working on
 - Lofor: A reverse proxy for web development
