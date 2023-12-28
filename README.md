@@ -1,4 +1,4 @@
-Hi, I am Tej Magar
+Hi, I am Tej Magar. I like to code and play with SEO stuffs.
 
 # 🛠️ Skills
 - Android with Java
