@@ -1,6 +1,8 @@
-Hi, I am Tej Magar. I like to code and play with SEO stuffs.
+# About Me
+Hi, I am Tej Magar. I like to code and play with SEO stuffs. Sometimes, I like build electric circuits and have fun with Arduino.
+Made my first application when I was 16 and had downloads around 1M. 
 
-# 🛠️ Skills
+## 🛠️ Skills
 - Android with Java
 - Django & Rest Framework
 - Flask / Fast API
