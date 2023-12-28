@@ -9,6 +9,7 @@ Hi, I am Tej Magar
 - Rust and Tauri
 - NodeJS / Javascript / Typescript
 - Machine learning with Pytorch (Python / Rust)
+- Arduino / NodeMCU
 
 ## 🔥 My Opensource Projects
 - [DJ Admin Plus](https://github.com/tejmagar/dj-admin-plus)
