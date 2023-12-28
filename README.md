@@ -2,11 +2,12 @@ Hi, I am Tej Magar
 
 # Skills
 - Android with Java
-- Django
+- Django & Rest Framework
+- Flask / Fast API
 - Svelte Kit
 - Rust and Tauri
 - NodeJS / Javascript / Typescript
-- Machine learning with Pytorch / Python
+- Machine learning with Pytorch (Python / Rust)
 
 ## My Opensource Projects
 - [DJ Admin Plus](https://github.com/tejmagar/dj-admin-plus)
