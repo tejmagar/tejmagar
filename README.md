@@ -5,6 +5,7 @@ Hi, I am Tej Magar
 - Django & Rest Framework
 - Flask / Fast API
 - Svelte Kit
+- Vue JS / Nuxt JS
 - Rust and Tauri
 - NodeJS / Javascript / Typescript
 - Machine learning with Pytorch (Python / Rust)
