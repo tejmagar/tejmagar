@@ -24,7 +24,7 @@ Hi, I am Tej Magar
 - Lofor: A reverse proxy for web development
 - tej-protoc: A websocket like protocol being implemented in rust.
 
-## Things I know besides <Coding/>
+## Things I know besides Coding
 - SEO (Search Engine Optimzation)
 - ASO (App Store Optimization)
 
