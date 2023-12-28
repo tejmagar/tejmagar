@@ -9,7 +9,7 @@ Hi, I am Tej Magar
 - Machine learning with Pytorch / Python
 
 ## My Opensource Projects
-- (DJ Admin Plus)[https://github.com/tejmagar/dj-admin-plus]
+- [DJ Admin Plus](https://github.com/tejmagar/dj-admin-plus)
 - (Android Network Tools)[https://github.com/tejmagar/AndroidNetworkTools]
 - (tej-protoc)[https://github.com/tejmagar/tej-protoc]
 
