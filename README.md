@@ -15,6 +15,7 @@ Hi, I am Tej Magar
 - [DJ Admin Plus](https://github.com/tejmagar/dj-admin-plus)
 - [Android Network Tools](https://github.com/tejmagar/AndroidNetworkTools)
 - [tej-protoc](https://github.com/tejmagar/tej-protoc)
+- [TinyWeb](https://github.com/tejmagar/tinyweb)
 
 ## 🙋 Projects to share
 - [Flash Keylogger](https://apkgk.com/tej.flashkeylogger)
