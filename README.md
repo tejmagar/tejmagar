@@ -34,8 +34,9 @@ Made my first application when I was 16 and had downloads around 1M.
 - ASO (App Store Optimization)
 
  ## Social Links
-📫 How to reach me? Instagram https://www.instagram.com/mgr_tej/
-
+📫 How to reach me? 
+Instagram: https://www.instagram.com/mgr_tej/
+Twitter: https://x.com/coder_tej
 <!---
 tejmagar/tejmagar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
