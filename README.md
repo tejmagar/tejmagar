@@ -14,20 +14,20 @@ Made my first application when I was 16 and had downloads around 1M.
 - Arduino / NodeMCU
 
 ## 🔥 My Opensource Projects
-- [Racoon](https://github.com/tejmagar/racoon)
-- [DJ Admin Plus](https://github.com/tejmagar/dj-admin-plus)
-- [Android Network Tools](https://github.com/tejmagar/AndroidNetworkTools)
-- [tej-protoc](https://github.com/tejmagar/tej-protoc)
-- [TinyWeb](https://github.com/tejmagar/tinyweb)
+- [Racoon - Web framework for Rust](https://github.com/tejmagar/racoon)
+- [DJ Admin Plus - Django Admin template](https://github.com/tejmagar/dj-admin-plus)
+- [Android Network Tools - Library for ARPs canning and traceroute](https://github.com/tejmagar/AndroidNetworkTools)
+- [tej-protoc - A custom duplex protocol for making microservices](https://github.com/tejmagar/tej-protoc)
+- [TinyWeb - Wraoper around NanoHTTPD library to handle routing](https://github.com/tejmagar/tinyweb)
 
 ## 🙋 Projects to share
-- [Flash Keylogger](https://apkgk.com/tej.flashkeylogger)
-- [Send it apk](https://github.com/tejmagar/sendit)
-- [Erase BG](https://erasebg.org)
+- [Flash Keylogger - A family monitoring app](https://apkgk.com/tej.flashkeylogger)
+- [Send it apk - App for transferring files between devices](https://github.com/tejmagar/sendit)
+- [Erase BG - AI based background removal site](https://erasebg.org)
 
 ## 👷 Currently Working on
+- Racoon: Web framework for Rust inspired from Django, Laravel
 - Lofor: A reverse proxy for web development
-- tej-protoc: A websocket like protocol being implemented in rust.
 
 ## 😀 Things I know besides Coding
 - SEO (Search Engine Optimzation)
