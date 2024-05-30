@@ -18,7 +18,7 @@ Made my first application when I was 16 and had downloads around 1M.
 - [DJ Admin Plus - Django Admin template](https://github.com/tejmagar/dj-admin-plus)
 - [Android Network Tools - Library for ARP scanning and traceroute](https://github.com/tejmagar/AndroidNetworkTools)
 - [tej-protoc - A custom duplex protocol for making microservices](https://github.com/tejmagar/tej-protoc)
-- [TinyWeb - Wraoper around NanoHTTPD library to handle routing](https://github.com/tejmagar/tinyweb)
+- [TinyWeb - Wrapper around NanoHTTPD library to handle routing](https://github.com/tejmagar/tinyweb)
 
 ## 🙋 Projects to share
 - [Flash Keylogger - A family monitoring app](https://apkgk.com/tej.flashkeylogger)
