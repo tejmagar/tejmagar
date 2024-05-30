@@ -35,6 +35,7 @@ Made my first application when I was 16 and had downloads around 1M.
 
  ## Social Links
 📫 How to reach me? 
+
 Instagram: https://www.instagram.com/mgr_tej/
 
 Twitter: https://x.com/coder_tej
