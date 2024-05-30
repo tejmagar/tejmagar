@@ -16,7 +16,7 @@ Made my first application when I was 16 and had downloads around 1M.
 ## 🔥 My Opensource Projects
 - [Racoon - Web framework for Rust](https://github.com/tejmagar/racoon)
 - [DJ Admin Plus - Django Admin template](https://github.com/tejmagar/dj-admin-plus)
-- [Android Network Tools - Library for ARPs canning and traceroute](https://github.com/tejmagar/AndroidNetworkTools)
+- [Android Network Tools - Library for ARP scanning and traceroute](https://github.com/tejmagar/AndroidNetworkTools)
 - [tej-protoc - A custom duplex protocol for making microservices](https://github.com/tejmagar/tej-protoc)
 - [TinyWeb - Wraoper around NanoHTTPD library to handle routing](https://github.com/tejmagar/tinyweb)
 
