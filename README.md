@@ -26,8 +26,8 @@ Made my first application when I was 16 and had downloads around 1M.
 - [Erase BG - AI based background removal site](https://erasebg.org)
 
 ## 👷 Currently Working on
-- Racoon: Web framework for Rust inspired from Django, Laravel
-- Lofor: A reverse proxy for web development
+- [Racoon: Web framework for Rust inspired from Django, Laravel](https://github.com/tejmagar/racoon)
+- [Lofor: A reverse proxy for web development](https://github.com/Bishwas-py/lofor)
 
 ## 😀 Things I know besides Coding
 - SEO (Search Engine Optimzation)
