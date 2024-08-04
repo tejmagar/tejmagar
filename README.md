@@ -32,6 +32,7 @@ Made my first application when I was 16 and had downloads around 1M.
 ## 😀 Things I know besides Coding
 - SEO (Search Engine Optimzation)
 - ASO (App Store Optimization)
+- Flirt & Cringe Jokes :)
 
  ## Social Links
 📫 How to reach me? 
