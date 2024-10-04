@@ -7,6 +7,7 @@ Made my first application when I was 16 and had downloads around 1M.
 - Django & Rest Framework
 - Flask / Fast API
 - Svelte Kit
+- PHP / WORDPRESS 
 - Vue JS / Nuxt JS
 - Rust and Tauri
 - NodeJS / Javascript / Typescript
